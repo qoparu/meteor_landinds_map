@@ -4,7 +4,8 @@ An interactive global map visualizing meteorite landing sites, built with Python
 
 It's a perfect example of how to blend creativity with intellect to turn raw data into an engaging story.
 
-> _(Replace this with a screenshot or GIF of your final map!)_
+<img width="2559" height="1245" alt="image" src="https://github.com/user-attachments/assets/19b46dbf-9851-4bf9-a4a7-d7a4deb97bdb" />
+
 
 ---
 
