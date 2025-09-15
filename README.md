@@ -71,7 +71,10 @@ This project uses the Meteorite Landings dataset, maintained by The Meteoritical
 
 ---
 
-<div align="center"> <h3>✨ Crafted with ❤️ by <a href="https://github.com/qoparu">Aru</a> ✨</h3> <img src="https://img.shields.io/badge/Java-Expert-important?logo=java" alt="Python Expert"> </div> 
+<div align="center">
+  <h3>✨ Crafted with ❤️ by <a href="https://github.com/qoparu">Aru</a> ✨</h3>
+  <img src="https://img.shields.io/badge/Python-Snake%20Charmer-yellow?logo=python" alt="Snake Charmer">
+</div>
 
 ---
 
