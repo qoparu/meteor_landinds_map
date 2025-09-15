@@ -71,9 +71,7 @@ This project uses the Meteorite Landings dataset, maintained by The Meteoritical
 
 ---
 
-## 👤 Author
-
-**@qoparu**
+<div align="center"> <h3>✨ Crafted with ❤️ by <a href="https://github.com/qoparu">Aru</a> ✨</h3> <img src="https://img.shields.io/badge/Java-Expert-important?logo=java" alt="Java Expert"> </div> 
 
 ---
 
