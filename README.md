@@ -42,7 +42,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/meteorite-map.git](https://github.com/your-username/meteorite-map.git)
+    git clone [https://github.com/qoparu/meteor_landinds_map.git](https://github.com/qoparu/meteor_landinds_map.git)
     cd meteorite-map
     ```
 
