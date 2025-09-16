@@ -332,7 +332,6 @@ m = folium.Map(
     prefer_canvas=True  # Лучше для производительности
 )
 
-# Добавляем стили и элементы интерфейса
 m.get_root().html.add_child(folium.Element(blinking_dot_css))
 m.get_root().html.add_child(folium.Element(create_enhanced_stats_panel(df_clean)))
 m.get_root().html.add_child(folium.Element(create_size_legend()))
